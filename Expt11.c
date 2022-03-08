@@ -241,5 +241,4 @@ int pop()
     return(stack[top--]);  // Pop the symbol and decrement TOP
 
 }
-© 2022 GitHub, Inc.
-Terms
+
